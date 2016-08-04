@@ -1,0 +1,40 @@
+_repo: The-Portrait-of-a-Lady---Volume-2_2834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: The Portrait of a Lady is a novel by Henry James, first published as
+  a serial in The Atlantic Monthly and Macmillan's Magazine in 1880-81 and then as
+  a book in 1881. It is one of James's most popular long novels, and is regarded by
+  critics as one of his finest. The Portrait of a Lady is the story of a spirited
+  young American woman, Isabel Archer, who "affronts her destiny" and finds it overwhelming.
+  She inherits a large amount of money and subsequently becomes the victim of Machiavellian
+  scheming by two American expatriates.
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Archer, Isabel (Fictitious character) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- GITenberg
+title: The Portrait of a Lady — Volume 2
+url: http://www.gutenberg.org/ebooks/2834
