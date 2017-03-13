@@ -1,5 +1,8 @@
 _repo: The-Portrait-of-a-Lady---Volume-2_2834
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -15,6 +18,8 @@ description: The Portrait of a Lady is a novel by Henry James, first published a
   young American woman, Isabel Archer, who "affronts her destiny" and finds it overwhelming.
   She inherits a large amount of money and subsequently becomes the victim of Machiavellian
   scheming by two American expatriates.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2834#The-Portrait-of-a-Lady---Volume-2
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
