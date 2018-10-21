@@ -1314,8 +1314,8 @@ he's great, though no one else thinks so."
 
 Isabel's colour deepened; she felt this really acute of her companion,
 and it was certainly a proof of the aid that passion might render
-perceptions she had never taken for fine. "Why do you always comeback to
-what others think? I can't discuss Mr. Osmond with you."
+perceptions she had never taken for fine. "Why do you always come back
+to what others think? I can't discuss Mr. Osmond with you."
 
 "Of course not," said Caspar reasonably. And he sat there with his air
 of stiff helplessness, as if not only this were true, but there were
@@ -1439,7 +1439,7 @@ you."
 "How little you make of these terrible journeys," she felt the poverty
 of her presently replying.
 
-"If you're afraid I'm knocked up--in any such way as that--you may he
+"If you're afraid I'm knocked up--in any such way as that--you may be
 at your ease about it." He turned away, this time in earnest, and no
 hand-shake, no sign of parting, was exchanged between them.
 
@@ -2801,7 +2801,7 @@ and though he knew less about architecture than about Limoges enamels
 he could see that the proportions of the windows and even the details
 of the cornice had quite the grand air. But Rosier was haunted by the
 conviction that at picturesque periods young girls had been shut up
-there to keep them from their true loves, and hen, under the threat of
+there to keep them from their true loves, and then, under the threat of
 being thrown into convents, had been forced into unholy marriages. There
 was one point, however, to which he always did justice when once he
 found himself in Mrs. Osmond's warm, rich-looking reception-rooms, which
@@ -7088,7 +7088,7 @@ patience and the graceful stillness with which she could sit and wait.
 At present she was seated, in her fresh array, before the bed-room
 fire; she had blown out her candles on the completion of her toilet, in
 accordance with the economical habits in which she had been brought up
-sand which she was now more careful than ever to observe; so that
+and which she was now more careful than ever to observe; so that
 the room was lighted only by a couple of logs. The rooms in Palazzo
 Roccanera were as spacious as they were numerous, and Pansy's virginal
 bower was an immense chamber with a dark, heavily-timbered ceiling.
@@ -7098,7 +7098,7 @@ the latter was more than ever struck with her shy sincerity. Isabel
 had a difficult task--the only thing was to perform it as simply as
 possible. She felt bitter and angry, but she warned herself against
 betraying this heat. She was afraid even of looking too grave, or at
-least too stern; she was afraid of causing alarm. Put Pansy seemed to
+least too stern; she was afraid of causing alarm. But Pansy seemed to
 have guessed she had come more or less as a confessor; for after she
 had moved the chair in which she had been sitting a little nearer to the
 fire and Isabel had taken her place in it, she kneeled down on a
@@ -7757,7 +7757,7 @@ cousin to that of pity. "Oh, Gilbert, for a man who was so fine--!" she
 exclaimed in a long murmur.
 
 "I was never so fine as you. You've done everything you wanted. You've
-got him out of the say without appearing to do so, and you've placed
+got him out of the way without appearing to do so, and you've placed
 me in the position in which you wished to see me--that of a man who has
 tried to marry his daughter to a lord, but has grotesquely failed."
 
@@ -9223,7 +9223,7 @@ to herself that the worst was still to come. A man might marry a woman
 for her money perfectly well; the thing was often done. But at least
 he should let her know. She wondered whether, since he had wanted her
 money, her money would now satisfy him. Would he take her money and let
-her go Ah, if Mr. Touchett's great charity would but help her to-day it
+her go. Ah, if Mr. Touchett's great charity would but help her to-day it
 would be blessed indeed! It was not slow to occur to her that if Madame
 Merle had wished to do Gilbert a service his recognition to her of the
 boon must have lost its warmth. What must be his feelings to-day in
@@ -9781,7 +9781,7 @@ too, apparently, had been thinking the thing out, but had arrived at a
 different conclusion from Isabel.
 
 "It's very absurd, my dear Osmond," she said, "to invent so many pretty
-reasons for poor Pansy's banishment. Why, don't you say at once that you
+reasons for poor Pansy's banishment. Why don't you say at once that you
 want to get her out of my way? Haven't you discovered that I think very
 well of Mr. Rosier? I do indeed; he seems to me simpaticissimo. He has
 made me believe in true love; I never did before! Of course you've
@@ -11177,7 +11177,7 @@ recovered herself, however, and with the right excess of intensity,
 "Henrietta Stackpole," she asked, "are you going to give up your
 country?"
 
-"Yes, my poor Isabel, I am. I won't pretend to deny it; I look the fact:
+"Yes, my poor Isabel, I am. I won't pretend to deny it; I look the fact
 in the face. I'm going to marry Mr. Bantling and locate right here in
 London."
 
